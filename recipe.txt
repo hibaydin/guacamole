@@ -1,1 +1,5 @@
-secret_ingredient
+add secret_ingredient
+mash avocados
+chop tomatoes
+stir in tomatoes and lime juice
+
